@@ -1,6 +1,47 @@
-#prog{
+#prog {
   color: blue;
 }
-*{
-  background: goldenrod;
+
+* {
+  background: burlywood;
+}
+
+.nav ul {
+  display: flex;
+  list-style: none;
+  margin-top: 0;
+  justify-content: center;
+  text-decoration: none;
+
+}
+
+.nav ul li {
+  padding: 20px;
+  text-align: right;
+}
+
+.nav ul li a {
+  text-decoration: none;
+}
+
+.nav a:hover {
+  color: black;
+}
+#home img{
+  padding-left: 150px;
+}
+
+#home {
+  height: 300px;
+  width: 50%;
+  margin: auto;
+  justify-content: center;
+}
+
+#home p {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
 }
