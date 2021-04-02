@@ -37,6 +37,10 @@
   width: 50%;
   margin: auto;
   justify-content: center;
+  color: aliceblue;
+  font-size: large;
+  font-style: italic;
+  font-weight: 900;
 }
 
 #home p {
@@ -45,4 +49,5 @@
 
 h1 {
   text-align: center;
+  color: brown;
 }
