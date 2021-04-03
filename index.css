@@ -28,7 +28,8 @@
 .nav a:hover {
   color: black;
 }
-#home img{
+
+#home img {
   padding-left: 150px;
 }
 
@@ -41,7 +42,6 @@
   font-size: large;
   font-style: italic;
   font-weight: 900;
-  box-shadow:20px brown;
 }
 
 #home p {
@@ -51,4 +51,13 @@
 h1 {
   text-align: center;
   color: brown;
+}
+
+#projects {
+  margin-top: 20px;
+}
+
+#About {
+  margin-bottom: 20px;
+  margin-top: 20px;
 }
